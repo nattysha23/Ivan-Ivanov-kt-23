@@ -1,0 +1,6 @@
+@IvanIvanov22_HostAddress = http://localhost:5094
+
+GET {{IvanIvanov22_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
